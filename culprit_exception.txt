@@ -1,0 +1,5 @@
+2022-06-18 21:40:40,675 - INFO - Started shitpost_time
+2022-06-18 21:40:40,677 - INFO - Got random template as below: 
+ {'name': 'Press2Button2', 'num_of_inserts': 2, 'is_background_insert': 0, 'enable_alpha_insert': 0, 'add_edge_aliasing': 0, 'offensive_level': 'neutral', 'dankness_level': 'medium', 'must_use_label': 0, 'label': nan}
+2022-06-18 21:40:40,725 - INFO - Got random insert_img as below: 
+ ['C:\\Users\\Barzarin\\PycharmProjects\\shitpost_bot\\res\\image\\insert_image\\neutral\\images.jpg', 'C:\\Users\\Barzarin\\PycharmProjects\\shitpost_bot\\res\\image\\insert_image\\neutral\\aAe1EgZ_700b.jpg']
