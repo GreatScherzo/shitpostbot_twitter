@@ -59,18 +59,18 @@ You can set detailed parameters using the template_info.csv
 The structure of res folder is as below.
 
 ```
-└── res
-    ├── insert_image
-    │    ├── [label_1]
-	│	│	└── insert1.jpg
-	│	├── [label 2]
-	|	|	└── insert2.jpg, insert3.jpg, ...
-	│	└── ...
-    ├── mask
-	│	└── insert1_mask.bmp, 
+   └── res
+    	├── insert_image
+    	│    ├── [label_1]
+	│    │	    └── insert1.jpg
+	│    ├── [label 2]
+	|    |	    └── insert2.jpg, insert3.jpg, ...
+	│    └── ...
+        ├── mask
+	│    └── insert1_mask.bmp, 
 	│	　　　insert2_mask.bmp,　...
 	├── template_image
-	│	└── template1.jpg, template2.jpg, ...
+	│    └── template1.jpg, template2.jpg, ...
 	└── template_info.csv
 ```
 # Inquiry
