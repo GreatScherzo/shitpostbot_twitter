@@ -9,6 +9,7 @@ To run the bot from source code, execute main.py.
 
 ### Run from EXE file
 There\`s also an EXE file if you wish to avoid installing all the necessary python packages. Just run the EXE file with the res folder in the same directory.
+(EXE file not added yet currently)
 
 ```
 └── project folder
